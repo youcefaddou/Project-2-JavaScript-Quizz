@@ -1,6 +1,6 @@
 Projet 2 Javascript
 
-Introduction
+Introduction: 
 Le projet consiste en la création d'un jeu de quizz en mode console basé sur des questions
 prédéfinies directement dans le code. L'objectif est de permettre à l'utilisateur de répondre
 à une série de cinq questions posées en texte, puis d'afficher le score final. Le jeu sera
