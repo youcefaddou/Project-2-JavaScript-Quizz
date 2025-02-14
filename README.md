@@ -1,4 +1,4 @@
-Projet 2 Javascript
+Projet 2 Javascript QUIZZ
 
 Introduction: 
 Le projet consiste en la création d'un jeu de quizz en mode console basé sur des questions
