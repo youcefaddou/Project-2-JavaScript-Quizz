@@ -1,4 +1,5 @@
 const prompt = require("prompt-sync")()
+
 //Defining the questions tab
 let tabquest = [
     {
