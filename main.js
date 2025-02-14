@@ -31,6 +31,7 @@ let tabquest = [
 console.log(prompt("BIENVENUE DANS LE QUIZZ DES 5 ! APPUYEZ SUR UNE TOUCHE POUR DÉMARRER "))
 
 const pseudo = prompt("Entrez votre pseudo: ");
+
 console.log("\n\nC'est parti, " + pseudo + " !");
 
 // Initializing good answers count
