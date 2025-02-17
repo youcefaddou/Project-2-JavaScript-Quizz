@@ -28,7 +28,7 @@ let tabquest = [
         goodAnswer: 'd'
     }]
 
-console.log(prompt("BIENVENUE DANS LE QUIZZ DES 5 ! APPUYEZ SUR UNE TOUCHE POUR DÉMARRER "))
+console.log(prompt("BIENVENUE DANS LE QUIZZ DES 5 ! APPUYEZ SUR ENTRER POUR DÉMARRER "))
 
 const pseudo = prompt("Entrez votre pseudo: ");
 
